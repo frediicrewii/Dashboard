@@ -1,0 +1,5 @@
+{
+  "name": "Economic Dashboard",
+  "description": "A comprehensive financial dashboard visualizing economic indicators across various sectors including Industry, Agriculture, and Construction, utilizing time-series analysis and categorical distribution.",
+  "requestFramePermissions": []
+}
